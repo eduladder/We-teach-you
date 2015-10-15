@@ -7,8 +7,12 @@ Admin can upload the data of the teachers so that the system will work
 2)Install php myadmin
 3)create a database name "teacher_review"
 4)Import sql file to the database
-
-Alright now you are ready to use the hinks
+5)Open config.php in root directory 
+change 	
+define("DB_USERNAME","");
+define("DB_PASSWORD","");
+As the name of your data base and name 
+Alright now you are ready to use the thinks
 1)For any clarfication and clearing your doubts plese contact arunwebber@gmail.com or visit www.eduladder.com
 
 ------------------------------------------How to use--------------------------------------------------------------------
