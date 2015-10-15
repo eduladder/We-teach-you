@@ -5,7 +5,7 @@ Admin can upload the data of the teachers so that the system will work
 ------------------------------------------How to install-----------------------------------------------------------------
 1)Make a directory copy all the files to that folder
 2)Install php myadmin
-3)create a database name ""
+3)create a database name "teacher_review"
 4)Import sql file to the database
 
 Alright now you are ready to use the hinks
